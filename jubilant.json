@@ -1,5 +1,5 @@
 {
-  "startupPath": "homes",
+  "startupPath": "webview",
   "webTitle": "Home",
   "webUrl": "https://google.com"
 }
