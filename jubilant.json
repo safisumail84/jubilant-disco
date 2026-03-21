@@ -1,5 +1,30 @@
 {
-  "startupPath": "cinchai",
-  "webTitle": "Home",
-  "webUrl": "https://google.com"
+  "startupPath": "landing",
+  "the_Url": "https://example.com",
+  "HomesPage": {
+    "paragraph": "this gonna be an long ass text paragraph next",
+    "vidsrc": [
+      "https://your-cdn.com/video1.mp4",
+      "https://your-cdn.com/video2.mp4",
+      "https://your-cdn.com/video3.mp4"
+    ],
+    "batten": [
+      {
+        "the_title": "Open Promo",
+        "the_href": "https://example.com/promo"
+      },
+      {
+        "the_title": "Register",
+        "the_href": "https://example.com/register"
+      },
+      {
+        "the_title": "Login",
+        "the_href": "https://example.com/login"
+      },
+      {
+        "the_title": "Support",
+        "the_href": "https://example.com/support"
+      }
+    ]
+  }
 }
